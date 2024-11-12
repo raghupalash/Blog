@@ -2,8 +2,8 @@
 title: Hey There
 ---
 
-# Blog
+# Hey!
 
-Hey there! I'm Palsh Raghuwanshi. I'm a Software Engineer and a Teacher.
+I'm Palsh Raghuwanshi. I'm a Software Engineer.
 
 I build things and I write about things.
